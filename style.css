@@ -1,0 +1,79 @@
+h1 {
+  color:#D23333;
+  font-size: 25px;
+  font-family: 'Montserrat';
+}
+
+h2 {
+  color:#555555;
+  font-size: 20px;
+}
+
+body {
+  background-color: #E5E5E5;
+  font-family: "Open Sans";
+  color: black;
+  font-size: 15px;
+  line-height: 2;
+}
+
+a{
+  text-decoration: none;
+  color: #818081;
+  margin-right: 20px;
+}
+div {
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 30px
+  box-shadow: 1px 1px 2px #888888;
+}
+.favorite p {
+  font-size: 10px;
+}
+.favorite h3 {
+  margin-bottom: 30px;
+}
+
+#imagine2 {
+  line-height: 6px;
+}
+.btn-red {
+    background-color: #DD5555;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+ ul {
+ list-style-type: none;
+ text-decoration: none;
+ }
+
+li {
+  display: inline-block;
+}
+
+.list-inline li i {
+  font-size: 25px;
+}
+
+
+
+
+
+ #photo_profil {
+  height: 200px;
+  border-radius: 50%;
+ }
+
+ #fav {
+  height: 200px;
+  border-radius: 5%;
+ }
